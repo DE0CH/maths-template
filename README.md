@@ -1,1 +1,1 @@
-# Mini Projects for Category Theory
+# Typst Template for Maths Projects
